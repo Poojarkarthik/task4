@@ -16,5 +16,3 @@ The goal is to demonstrate Git workflows using branching, pull requests, tags, a
 - **Git** – Version control system.
 - **GitHub** – Remote repository hosting.
 - **Markdown** – For documentation.
-
-## 📂 Repository Structure
